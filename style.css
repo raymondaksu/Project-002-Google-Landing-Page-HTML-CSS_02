@@ -127,7 +127,7 @@ main {
 }
 
 #GoogleSearch:hover, #FeelingLucky:hover {
-  outline: 0.5px #c0bebe solid;
+  outline: 1px #c0bebe solid;
 }
 
 .p1 {
