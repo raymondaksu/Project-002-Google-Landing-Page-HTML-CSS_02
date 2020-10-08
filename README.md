@@ -1,4 +1,4 @@
-https://raymondaksu.github.io/HTML-CSS-002-Google-Landing-Page/
+https://raymondaksu.github.io/Project-002-Google-Landing-Page-HTML-CSS_02/
 
 # Project-002 :Google Landing Page (HC-02)
 
